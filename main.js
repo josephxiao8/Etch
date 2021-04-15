@@ -71,7 +71,6 @@ document.addEventListener("keydown", function(event){
         cur_x+=dx[idx_x];
         cur_y+=dy[idx_y];
     }
-    console.log(cur_x + " " + cur_y); //sends current position to console
 });
 
 document.addEventListener("keyup", function(event){
