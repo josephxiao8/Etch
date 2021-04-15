@@ -1,0 +1,19 @@
+.tablet{
+    border: 30px solid #d81616;
+}
+
+.menu{
+    font-family: 'Inter', sans-serif;
+    background-color: #e0dede;
+    color: black;
+    padding: 10px 24px;
+    border-radius: 10px;
+    float: right; 
+}
+
+.grid{
+    border-collapse: collapse;
+    border: 2px solid rgb(200,200,200);
+    letter-spacing: 1px;
+    font-size: 0.8rem;
+}
